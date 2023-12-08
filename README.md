@@ -3,7 +3,7 @@
 
 I assume that you already have set-up with Bedrock IAM permissions and have access to the bedrock models. 
 If not, please refer to AWS documentation the IAM permissions and access to the Amazon Bedrock Models. 
-
+https://docs.aws.amazon.com/bedrock/latest/userguide/what-is-bedrock.html
 Git Clone
 
 
