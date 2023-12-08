@@ -11,6 +11,12 @@ credentials:
   expiry_days: 30
   key: random_signature_key # Must be string
   name: random_cookie_name
+  
+cookie:
+  expiry_days: 30
+  key: random_signature_key # Must be string
+  name: simple_chatbot
+  
 preauthorized:
   emails:
   - koushaldutt@gmail.com
